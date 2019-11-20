@@ -1,5 +1,7 @@
 # 104 AJAX JavaScript XHR and Fetch
-By Laurence Svekis
+by Laurence Svekis
+
+<img src="images/AJAXJavaScriptXHRandFetch.jpg">
 
 Estimated time to complete: 1h 40m
 Topics: JavaScript
