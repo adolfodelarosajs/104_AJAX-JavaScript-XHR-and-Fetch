@@ -3,11 +3,9 @@ by Laurence Svekis
 
 [<img src="images/AJAXJavaScriptXHRandFetch.jpg">](https://learning.oreilly.com/videos/ajax-javascript-xhr/9781789616071)
 
-Estimated time to complete: 1h 40m
-
-Topics: JavaScript
-
-Published by: Packt Publishing 2018
+* Estimated time to complete: 1h 40m
+* Topics: JavaScript
+* Published by: Packt Publishing 2018
 
 Learn how to use AJAX within your web applications, Course covers vanilla JavaScript using XMLHttpRequests and Fetch
 
