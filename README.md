@@ -4,7 +4,9 @@ by Laurence Svekis
 <img src="images/AJAXJavaScriptXHRandFetch.jpg">
 
 Estimated time to complete: 1h 40m
+
 Topics: JavaScript
+
 Published by: Packt Publishing 2018
 
 Learn how to use AJAX within your web applications, Course covers vanilla JavaScript using XMLHttpRequests and Fetch
