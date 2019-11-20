@@ -1,7 +1,7 @@
 # 104 AJAX JavaScript XHR and Fetch
 by Laurence Svekis
 
-<img src="images/AJAXJavaScriptXHRandFetch.jpg">
+[<img src="images/AJAXJavaScriptXHRandFetch.jpg">](https://learning.oreilly.com/videos/ajax-javascript-xhr/9781789616071)
 
 Estimated time to complete: 1h 40m
 
