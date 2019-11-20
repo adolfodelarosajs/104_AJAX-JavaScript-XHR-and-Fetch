@@ -33,3 +33,23 @@ This Course covers the following:
 * Practice AJAX
 
 The possibilities are endless, using JavaScript to send requests, receive response content and use the response data to output into the html. JavaScript is at the center of it all connecting the web page and provides you a wide variety of options where you can take the code provided within this course and extend on it in any number of directions. Learn practice and have fun.
+
+## Content
+
+### Chapter 1 : Introduction
+
+* Introduction to using AJAX XHR and Fetch in JavaScript **4m 33s**
+* Developer setup environment **3m 47s**
+* Localhost Setup **9m 31s**
+* AJAX introduction for Fetch and XHR **7m 48s**
+* XHR requests across the web **11m 53s**
+* Exercise Random User XHR option **6m 23s**
+* Exercise Random User AJAX Load Data **5m 39s**
+* More XHR practice **4m 26s**
+* XHR Request Data **9m 34s**
+* JavaScript Fetch **5m 23s**
+* Fetch Promise Response **8m 23s**
+* Fetch Options **5m 17s**
+* Post with Fetch **5m 7s**
+* Fetch Form Submit Data **10m 35s**
+* Course Overview and summary **1m 57s**
